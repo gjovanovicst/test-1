@@ -28,6 +28,21 @@
 
 ---
 
+# v0.0.1 (Sat Oct 09 2021)
+
+#### ⚠️ Pushed to `main`
+
+- More changes for issue 1 and issue 2 (goran@horisen.com)
+- Update readme (goran@horisen.com)
+- Initial commit ([@gjovanovicst](https://github.com/gjovanovicst))
+
+#### Authors: 2
+
+- [@gjovanovicst](https://github.com/gjovanovicst)
+- Goran Jovanovic (goran@horisen.com)
+
+---
+
 # Changelog
 
 ## [Unreleased](https://github.com/adaleks/test-1/tree/HEAD)
