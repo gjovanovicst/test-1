@@ -17,7 +17,15 @@
 
 ## [Unreleased](https://github.com/adaleks/test-1/tree/HEAD)
 
-[Full Changelog](https://github.com/adaleks/test-1/compare/v0.1.0...HEAD)
+[Full Changelog](https://github.com/adaleks/test-1/compare/0.1.0...HEAD)
+
+**Fixed bugs:**
+
+- iest issue v3 [\#4](https://github.com/adaleks/test-1/issues/4)
+
+## [0.1.0](https://github.com/adaleks/test-1/tree/0.1.0) (2021-10-08)
+
+[Full Changelog](https://github.com/adaleks/test-1/compare/0.2.0...0.1.0)
 
 **Implemented enhancements:**
 
@@ -25,29 +33,13 @@
 - component 2 [\#2](https://github.com/adaleks/test-1/issues/2)
 - component 1 [\#1](https://github.com/adaleks/test-1/issues/1)
 
-**Fixed bugs:**
-
-- iest issue v3 [\#4](https://github.com/adaleks/test-1/issues/4)
-
-## [v0.1.0](https://github.com/adaleks/test-1/tree/v0.1.0) (2021-10-08)
-
-[Full Changelog](https://github.com/adaleks/test-1/compare/v0.2.0...v0.1.0)
-
-## [v0.2.0](https://github.com/adaleks/test-1/tree/v0.2.0) (2021-10-08)
-
-[Full Changelog](https://github.com/adaleks/test-1/compare/v0.3.0...v0.2.0)
-
-## [v0.3.0](https://github.com/adaleks/test-1/tree/v0.3.0) (2021-10-08)
-
-[Full Changelog](https://github.com/adaleks/test-1/compare/v0.4.0...v0.3.0)
-
-## [v0.4.0](https://github.com/adaleks/test-1/tree/v0.4.0) (2021-10-08)
-
-[Full Changelog](https://github.com/adaleks/test-1/compare/d05bf373c819c6daa3332666566192d980bbbed7...v0.4.0)
-
 **Merged pull requests:**
 
 - Master [\#3](https://github.com/adaleks/test-1/pull/3) ([gjovanovicst](https://github.com/gjovanovicst))
+
+## [0.2.0](https://github.com/adaleks/test-1/tree/0.2.0) (2021-10-08)
+
+[Full Changelog](https://github.com/adaleks/test-1/compare/d05bf373c819c6daa3332666566192d980bbbed7...0.2.0)
 
 
 
